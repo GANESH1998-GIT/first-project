@@ -66,3 +66,9 @@ body{
     font-size: 20px;
     cursor: pointer;
 }
+
+p{
+    max-width: 1240px;
+    margin: auto;
+    margin-top: 24px;
+}
